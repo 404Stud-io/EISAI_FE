@@ -1526,6 +1526,7 @@ section {
   border-radius: 0;
   box-shadow: none;
   font-size: 14px;
+  color: #ffffff;
   background-color: transparent;
 }
 
@@ -1551,7 +1552,7 @@ section {
   width: 20%;
   background: #788a4c;
   border: 1px solid #788a4c;
-  padding: 10px 24px;
+  padding: auto;
   color: #ffffff;
   transition: 0.4s;
 }
